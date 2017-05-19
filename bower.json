@@ -1,0 +1,20 @@
+{
+  "name": "my first boostrap porject",
+  "homepage": "https://github.com/roman619/Projec1",
+  "authors": [
+    "roman619 <roman_kft@hotomail.com>"
+  ],
+  "description": "las saladitas son horneadas",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "boostrap#^3.3.7"
+  }
+}
